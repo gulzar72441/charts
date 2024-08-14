@@ -13,6 +13,7 @@
     "canvasjs": "^1.8.3",
     "chart.js": "^4.4.3",
     "chartjs-adapter-date-fns": "^3.0.0",
+    "date-fns": "^3.6.0",
     "moment": "^2.30.1",
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.4",
